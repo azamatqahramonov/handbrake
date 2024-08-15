@@ -1,0 +1,184 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+li {
+  list-style: none;
+  display: flex;
+  color: #25468a;
+}
+
+ul {
+  display: flex;
+  gap: 32px;
+}
+
+.btn {
+  width: 116px;
+  height: 37px;
+  border-radius: 24px;
+  background-color: white;
+  color: #14274c;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.titlee {
+  width: 560px;
+  height: 108px;
+  color: #25468a;
+  font-size: 92px;
+}
+
+.header-3 {
+  width: 560px;
+  height: 24px;
+  color: #3b4a6b;
+  font-size: 32px;
+}
+
+.info {
+  width: 560px;
+  height: 55px;
+  font-size: 20px;
+  color: #3b4a6b;
+}
+
+.header {
+  padding: 50px;
+  background: #1391ceb2;
+}
+
+.btn2 {
+  background: #f7ba0e;
+  border-radius: 26px;
+  color: black;
+  width: 263px;
+  height: 51px;
+  border-color: #f7ba0e;
+}
+
+.main {
+  background: #1391ceb2;
+}
+
+.box2 {
+  display: flex;
+  width: 352px;
+  height: 189px;
+  background: #1391ce;
+  border-radius: 8px;
+  color: white;
+  font-size: 22px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.center {
+  text-align: center;
+}
+
+.h2 {
+  color: #1391ce;
+  font-size: 36px;
+}
+
+.main2 {
+  padding: 225px;
+  background-color: #8eceee;
+  width: 100%;
+  max-width: 1423px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.main3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+span {
+  color: #25468a;
+}
+
+.headerr {
+  color: #1391ce;
+  font-size: 32px;
+}
+
+.p {
+  color: #4f4f4f;
+  font-size: 18px;
+}
+
+.images {
+  width: 560px;
+  height: 408px;
+}
+
+.main3 {
+  background: #8eceee;
+}
+
+.checkbox {
+  gap: 20px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main4 {
+  background: #8eceee;
+}
+
+.main5 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #8eceee;
+}
+
+.wrapper {
+  display: flex;
+  width: 100%;
+  max-width: 1425px;
+  padding: 0 10px;
+  margin: 0 auto;
+  background: #1391ce;
+  height: 144px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.color {
+  color: white;
+}
